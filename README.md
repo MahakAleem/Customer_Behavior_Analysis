@@ -1,2 +1,7 @@
 # Customer_Behavior_Analysis
-Customer Data Engineering &amp; Visualization: Automating behavioral insights using SQL queries, Python processing, and Power BI reporting.
+Customer Data Engineering & Visualization: Automating behavioral insights using SQL queries, Python processing, and Power BI reporting.
+
+This project analyzes customer shopping behavior using transactional data from 3,900 
+purchases across various product categories. The goal is to uncover insights into spending 
+patterns, customer segments, product preferences, and subscription behavior to guide strategic 
+business decisions.
